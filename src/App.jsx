@@ -27,11 +27,11 @@ const siteProps = {
   name: "Egharevba Stephanie",
   title: "Product Designer, Data Analyst, Advocate and Content Creator",
   email: "stephanieegharevba83@gmail.com",
-  gitHub: "Stephanie_cpu",
-  instagram: "sefini_stephanie",
-  linkedIn: "Egharevba Stephanie",
-  twitter: "sefini_steph",
-  youTube: "Sefini_Stephanie",
+  gitHub: "https://github.com/Stephanie-cpu",
+  instagram: "https://www.instagram.com/sefini_stephanie/",
+  linkedIn: "https://www.linkedin.com/in/egharevba-stephanie-9bab261ab/",
+  twitter: "https://twitter.com/sefini_steph",
+  youTube: "https://www.youtube.com/channel/UClsBMyu7VDynga_350gBx4w",
 };
 
 const primaryColor = "#4E567E";
