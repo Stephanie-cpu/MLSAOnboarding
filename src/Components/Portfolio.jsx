@@ -70,6 +70,7 @@ const Portfolio = () => {
             }}
             alt={imageAltText}
           />
+          <img src="../images/img.jpg" alt="" />
         </div>
         <div className="container">
           {projectList.map((project) => (

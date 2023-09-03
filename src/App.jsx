@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "https://www.instagram.com/sefini_stephanie/",
   linkedIn: "https://www.linkedin.com/in/egharevba-stephanie-9bab261ab/",
   twitter: "https://twitter.com/sefini_steph",
-  youTube: "https://www.youtube.com/channel/UClsBMyu7VDynga_350gBx4w",
+  youTube: "https://youtube.com/@sefini_stephanie?si=GRvn-eHDkjNKzkiR",
 };
 
 const primaryColor = "#000000";
