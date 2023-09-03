@@ -36,10 +36,10 @@ const projectList = [
     url: "https://www.linkedin.com/in/egharevba-stephanie-9bab261ab/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "User Interface Design",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed a Bank's Web application Landing Page",
+    url: "https://www.instagram.com/p/CpvXSY5qPBw/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==",
   },
 ];
 
