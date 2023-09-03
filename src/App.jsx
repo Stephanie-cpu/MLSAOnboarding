@@ -29,9 +29,9 @@ const siteProps = {
   email: "stephanieegharevba83@gmail.com",
   gitHub: "https://github.com/Stephanie-cpu",
   instagram: "https://www.instagram.com/sefini_stephanie/",
-  linkedIn: "https://www.linkedin.com/in/egharevba-stephanie-9bab261ab/",
+  linkedIn: "https://www.linkedin.com/in/egharevba-stephanie-9bab261ab/"
   twitter: "https://twitter.com/sefini_steph",
-  youTube: "https://youtube.com/@sefini_stephanie?si=GRvn-eHDkjNKzkiR",
+  youTube: "https://youtube.com/@sefini_stephanie?si=63XReR3mJza08Yr_",
 };
 
 const primaryColor = "#000000";
