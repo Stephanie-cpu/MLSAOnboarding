@@ -24,6 +24,7 @@
         "GitHub.copilot",
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurestaticwebapps"
+        
       ],
       "settings": {
         "emmet.includeLanguages": {
