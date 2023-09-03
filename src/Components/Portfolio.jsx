@@ -38,7 +38,7 @@ const projectList = [
   {
     title: "User Interface Design",
     description: "Designed a Bank's Web application Landing Page",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://www.instagram.com/p/CpvXSY5qPBw/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==",
   },
 ];
 
