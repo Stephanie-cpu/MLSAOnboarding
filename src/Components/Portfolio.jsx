@@ -40,6 +40,11 @@ const projectList = [
     description: "Designed a Bank's Web application Landing Page",
     url: "https://www.instagram.com/p/CpvXSY5qPBw/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==",
   },
+  {
+    title: "Data Analytics",
+    description: "Explored and Analyzed Data Science Roles",
+    url: "https://github.com/Stephanie-cpu/datascienceroles-analysis",
+  },
 ];
 
 const Portfolio = () => {
