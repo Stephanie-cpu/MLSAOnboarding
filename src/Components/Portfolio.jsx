@@ -37,9 +37,8 @@ const projectList = [
   },
   {
     title: "User Interface Design",
-    description:
-      "Designed a Bank's Web application Landing Page",
-    url: "https://www.instagram.com/p/CpvXSY5qPBw/?utm_source=ig_web_button_share_sheet&igshid=MzRlODBiNWFlZA==",
+    description: "Designed a Bank's Web application Landing Page",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
@@ -47,11 +46,23 @@ const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
       <h2 style={{ textAlign: "center" }}>MyPortfolio</h2>
-      <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
+      <div
+        style={{
+          display: "flex",
+          flexDirection: "row",
+          animation: "1s ease-out 0s 1 slideIn",
+          paddingTop: "3rem",
+        }}
+      >
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            style={{
+              height: "90%",
+              width: "100%",
+              objectFit: "cover",
+              animation: "1s ease-out 0s 1 slideIn",
+            }}
             alt={imageAltText}
           />
         </div>
