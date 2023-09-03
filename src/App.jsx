@@ -11,7 +11,7 @@ import Footer from "./Components/Footer";
 import Header from "./Components/Header";
 import Home from "./Components/Home";
 import Portfolio from "./Components/Portfolio";
-
+import Education from "./Components/Education";
 import "./styles.css";
 
 /**
@@ -34,7 +34,7 @@ const siteProps = {
   youTube: "https://www.youtube.com/channel/UClsBMyu7VDynga_350gBx4w",
 };
 
-const primaryColor = "#000000";
+const primaryColor = "#F5F5DC";
 const secondaryColor = "#D2F1E4";
 
 const App = () => {
@@ -44,11 +44,10 @@ const App = () => {
       <Home name={siteProps.EgharevbaStephanie} title={siteProps.SefiniStephanie} />
       <About />
       <Portfolio />
+      <Education />
       <Footer {...siteProps} primaryColor={primaryColor} secondaryColor={secondaryColor} />
     </div>
   );
 };
 
-import Education from "./Components/Education";
-<Education />;
 export default App;
